@@ -1,5 +1,5 @@
 // Импорт массива
-import pictures from "../pictures-items.js";
+import pictures from "./pictures-items.js";
 
 // Находим данные в HTML
 const galleryContainer = document.querySelector(".js-gallery");
